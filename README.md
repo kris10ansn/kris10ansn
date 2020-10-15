@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋
+
+I'm Kristian 🇳🇴🇳🇴
+
+I make games and applications and upload them here. 
+
 
 <!--
 **kris10ansn/kris10ansn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
