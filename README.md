@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Kristian 🇳🇴🇳🇴
+I'm Kristian
 
 I make games and applications and upload them here. 
 
