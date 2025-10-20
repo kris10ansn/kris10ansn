@@ -1,4 +1,4 @@
-### Kris10ansn 👋
+### Hi, I'm Kristian 👋
 
 Programming for fun and utility. 
 
